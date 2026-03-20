@@ -100,7 +100,7 @@ picoclaw-launcher -no-browser -public
 
 2. **生成抓图脚本**：在 Discord 中与 PicoClaw 对话，要求其编写并执行 MaixPy 的抓图脚本：
 
-   > 请参考 https://wiki.sipeed.com/maixpy/doc/zh/vision/camera.html，
+   > 请参考 https://wiki.sipeed.com/maixpy/doc/zh/vision/camera.html
    > 帮我写一个 MaixPy 脚本，抓取一张图片并保存到 /root/capture.jpg
 
    ![capture](/img/maixcam/capture.jpeg)
